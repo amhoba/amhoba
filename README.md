@@ -4,6 +4,8 @@
 
 Passionate about building scalable, high-performance systems and cloud-native applications. With extensive experience across multiple programming languages and modern infrastructure tools, I focus on clean code, efficient architecture, and solving real-world problems.
 
+![Profile Views](https://komarev.com/ghpvc/?username=amhoba&color=brightgreen&style=flat-square)
+
 ## Technologies & Tools
 
 **Languages**  
@@ -62,6 +64,6 @@ Check out some of my pinned repositories (more in my profile):
 - Stack Overflow: [profile](https://stackoverflow.com/users/5252192/)  
 - LinkedIn: [profile](https://www.linkedin.com/in/amir-hossein-baghernezhad)  
 
-Always open to collaborations, interesting problems, or just chatting about cloud, Rust, Go, or the latest in dev tools!
+Always open to business opportunities, professional collaborations, consulting engagements, remote/full-time roles, or strategic discussions on cloud infrastructure, backend systems, distributed architectures, and innovative tech solutions!
 
 Thanks for stopping by!
