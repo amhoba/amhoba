@@ -59,8 +59,8 @@ Check out some of my pinned repositories (more in my profile):
 
 - GitHub: [@amhoba](https://github.com/amhoba)  
 - Telegram: [@amk42](https://t.me/amk42)  
-- Stack Overflow: [amk42](https://stackoverflow.com/users/5252192/)  
-- LinkedIn: [Amir Hossein Baghernezhad](https://www.linkedin.com/in/amir-hossein-baghernezhad)  
+- Stack Overflow: [profile](https://stackoverflow.com/users/5252192/)  
+- LinkedIn: [profile](https://www.linkedin.com/in/amir-hossein-baghernezhad)  
 
 Always open to collaborations, interesting problems, or just chatting about cloud, Rust, Go, or the latest in dev tools!
 
