@@ -1,6 +1,6 @@
 # Hi there, I'm Amir Hossein Baghernezhad 👋
 
-**Lead Software Engineer** | Applied AI Architect | Full-Stack & Backend Specialist | Cloud-Native Enthusiast
+**Lead Software Engineer** | Full-Stack & Backend Specialist | Applied AI Architect | Cloud-Native Enthusiast
 
 Passionate about building scalable, high-performance systems and cloud-native applications. With extensive experience across multiple programming languages and modern infrastructure tools, I focus on clean code, efficient architecture, and solving real-world problems.
 
